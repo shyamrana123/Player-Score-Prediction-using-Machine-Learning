@@ -1,0 +1,21 @@
+player_name,team,Height,Age,Market value,Primary,long_ball_accuracy,clean_sheet,high_claim,sweeper,goals_conceded,save_percentage
+Joel Robles,Estoril,195,34,700000.0,KeeperGK,,,,,,
+Ivan Zlobin,Famalicao,191,27,350000.0,KeeperGK,,,,,,
+Lukas Hornicek,Braga,197,22,2500000.0,KeeperGK,,,,,,
+Matheus,Braga,189,32,5500000.0,KeeperGK,17.0,29.0,17.0,98.0,41.0,2.0
+Diogo Costa,FC Porto,186,24,35000000.0,KeeperGK,12.0,95.0,34.0,76.0,97.0,1.0
+Bruno Brigido,Estrela da Amadora,188,33,350000.0,KeeperGK,55.0,13.0,51.0,91.0,17.0,59.0
+Kewin,Moreirense,189,29,420000.0,KeeperGK,66.0,90.0,87.0,29.0,76.0,56.0
+Vladan Kovacevic,Sporting CP,193,26,5200000.0,KeeperGK,12.0,61.0,65.0,96.0,59.0,20.0
+Nico Mantl,Arouca,193,24,1100000.0,KeeperGK,95.0,26.0,94.0,85.0,62.0,88.0
+Jhonatan,Rio Ave,189,33,820000.0,KeeperGK,59.0,82.0,84.0,68.0,73.0,62.0
+Bruno Varela,Vitoria de Guimaraes,191,29,4200000.0,KeeperGK,55.0,85.0,17.0,9.0,86.0,27.0
+Gabriel Batista,Santa Clara,191,26,550000.0,KeeperGK,,,,,,
+Anatolii Trubin,Benfica,199,23,28000000.0,KeeperGK,14.0,92.0,10.0,21.0,95.0,7.0
+Andrew,Gil Vicente,189,23,2200000.0,KeeperGK,34.0,66.0,65.0,60.0,43.0,43.0
+Joao Goncalves,Boavista,188,23,550000.0,KeeperGK,28.0,11.0,10.0,36.0,14.0,26.0
+Patrick Sequeira,Casa Pia AC,190,25,400000.0,KeeperGK,100.0,100.0,89.0,97.0,93.0,100.0
+Ricardo Velho,Farense,185,26,850000.0,KeeperGK,30.0,23.0,82.0,33.0,28.0,52.0
+Simao Bertelli,AVS Futebol SAD,187,31,0.0,KeeperGK,100.0,16.0,70.0,12.0,33.0,100.0
+Lucas Franca,Nacional,194,28,100000.0,KeeperGK,,,,,,
+Ricardo Batista,Casa Pia AC,182,37,95000.0,KeeperGK,41.0,70.0,73.0,51.0,33.0,58.0
